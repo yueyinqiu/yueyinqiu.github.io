@@ -1,13 +1,13 @@
 # Site settings
-title: yueyinqiu
-description: yueyinqiu's personal website
+title: 月银秋
+description: 月银秋的个人网站
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: yueyinqiu
-user_description: Hello!
-user_title: 
+username: 月银秋
+user_description: 你好！
+user_title: 你好！
 email: yueyinqiu5990@qq.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
